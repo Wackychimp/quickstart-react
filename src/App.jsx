@@ -6,7 +6,7 @@ import Vapi from "@vapi-ai/web";
 import { isPublicKeyMissingError } from "./utils";
 
 // Put your Vapi Public Key below.
-const vapi = new Vapi("0000AAAA-XXXX-XXXX-XXXX-EDITS-IN-GITHUB");
+const vapi = new Vapi("0000QZQZ-XXXX-XXXX-XXXX-EDITS-IN-GITHUB");
 
 const App = () => {
   const [connecting, setConnecting] = useState(false);
